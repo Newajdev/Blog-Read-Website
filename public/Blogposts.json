@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "cover_img": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "author": "Alice Johnson",
+    "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
+    "reading_time": 5,
+    "title": "Mastering the Art of Minimalist Web Design",
+    "hashtags": ["#design", "#minimalism", "#web"],
+    "post_time": "May 20 (4320 min ago)"
+  },
+  {
+    "id": "2",
+    "cover_img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "author": "Brian Lee",
+    "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
+    "reading_time": 8,
+    "title": "Top 10 Tools Every UI/UX Designer Should Know",
+    "hashtags": ["#uiux", "#tools", "#productivity"],
+    "post_time": "May 18 (6480 min ago)"
+  },
+  {
+    "id": "3",
+    "cover_img": "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+    "author": "Chloe Kim",
+    "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+    "reading_time": 6,
+    "title": "Creating Emotionally Engaging User Interfaces",
+    "hashtags": ["#ux", "#emotions", "#designthinking"],
+    "post_time": "May 19 (5760 min ago)"
+  },
+  {
+    "id": "4",
+    "cover_img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "author": "David Smith",
+    "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
+    "reading_time": 4,
+    "title": "Why Dark Mode is More Than Just a Trend",
+    "hashtags": ["#darkmode", "#accessibility", "#ux"],
+    "post_time": "May 17 (7200 min ago)"
+  },
+  {
+    "id": "5",
+    "cover_img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "author": "Ella Martinez",
+    "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
+    "reading_time": 7,
+    "title": "How to Conduct Effective User Research for Apps",
+    "hashtags": ["#userresearch", "#appdesign", "#ux"],
+    "post_time": "May 15 (8640 min ago)"
+  },
+  {
+    "id": "6",
+    "cover_img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "author": "Frank Wilson",
+    "author_img": "https://randomuser.me/api/portraits/men/6.jpg",
+    "reading_time": 9,
+    "title": "The Rise of Responsive Design in 2025",
+    "hashtags": ["#responsive", "#webdesign", "#tech"],
+    "post_time": "May 21 (2880 min ago)"
+  },
+  {
+    "id": "7",
+    "cover_img": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34",
+    "author": "Grace Parker",
+    "author_img": "https://randomuser.me/api/portraits/women/7.jpg",
+    "reading_time": 5,
+    "title": "UI Animation: Small Details, Big Impact",
+    "hashtags": ["#animation", "#ui", "#interaction"],
+    "post_time": "May 22 (1440 min ago)"
+  },
+  {
+    "id": "8",
+    "cover_img": "https://images.unsplash.com/photo-1537432376769-00a0f5fcbf9d",
+    "author": "Henry Adams",
+    "author_img": "https://randomuser.me/api/portraits/men/8.jpg",
+    "reading_time": 6,
+    "title": "Design Systems That Scale",
+    "hashtags": ["#designsystem", "#ux", "#consistency"],
+    "post_time": "May 23 (120 min ago)"
+  },
+  {
+    "id": "9",
+    "cover_img": "https://images.unsplash.com/photo-1573164574472-cb89e39749b4",
+    "author": "Isabella Ray",
+    "author_img": "https://randomuser.me/api/portraits/women/9.jpg",
+    "reading_time": 7,
+    "title": "Accessibility in Web Design: Best Practices",
+    "hashtags": ["#accessibility", "#a11y", "#web"],
+    "post_time": "May 24 (future)"
+  },
+  {
+    "id": "10",
+    "cover_img": "https://images.unsplash.com/photo-1581092795360-5a4c4d1f0406",
+    "author": "Jack Nguyen",
+    "author_img": "https://randomuser.me/api/portraits/men/10.jpg",
+    "reading_time": 4,
+    "title": "Typography Trends That Are Shaping 2025",
+    "hashtags": ["#typography", "#trends", "#design"],
+    "post_time": "May 25 (future)"
+  }
+]
